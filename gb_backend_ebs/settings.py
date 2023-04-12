@@ -95,7 +95,7 @@ DATABASES = {
     'NAME': 'gb_database',
     'USER': 'postgres',
     'PASSWORD': 'password',
-    'HOST': 'gb-prod-db-instance.cmlcbdndvrou.us-east-1.rds.amazonaws.com',
+    'HOST': 'gb-prod-db.cmlcbdndvrou.us-east-1.rds.amazonaws.com',
     'PORT': '5432',
   }
 }
